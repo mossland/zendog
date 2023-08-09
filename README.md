@@ -1,4 +1,8 @@
-# Zen Dog - Break Free from Phone Addiction with a Web 3.0 Lifestyle Campaign App
+
+![zendog_banner](https://github.com/mossland/zendog/assets/38033515/b402756d-d74a-466b-97be-82ea2777958e)
+
+# Zen Dog
+> Break Free from Phone Addiction with a Web 3.0 Lifestyle Campaign App
 
 Zen Dog is a revolutionary Web 3.0 lifestyle campaign app that addresses the pervasive issue of phone addiction, providing users with a meaningful solution to disconnect and regain control over their digital lives. By combining elements of gamification and financial incentives, Zen Dog empowers individuals to overcome the allure of constant smartphone usage.
 
