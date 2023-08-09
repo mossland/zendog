@@ -40,6 +40,10 @@ At its core, Zen Dog embraces a simple yet powerful idea: **disconnect to earn r
 
 6. **Celebrate Progress**: Share your achievements, connect with others, and inspire a growing community of Zen Dog users.
 
+## Zen Dog Design
+
+1. [Introduction to Zen Dog (pdf)](Introduction%20to%20Zen%20Dog.pdf)
+
 ## Get Involved
 
 Join us in the movement to combat phone addiction and reclaim our digital lives. Whether you're an individual looking to break free from the smartphone's grasp or a partner interested in supporting our mission, there's a place for you in the Zen Dog community.
