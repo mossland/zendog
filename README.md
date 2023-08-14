@@ -42,8 +42,8 @@ At its core, Zen Dog embraces a simple yet powerful idea: **disconnect to earn r
 
 ## Zen Dog Documents
 
-1. [Initial Idea - Focus to Earn (pdf)](docs/Focus%20to%20Earn%20Approach.pdf)
-2. [Introduction to Zen Dog (pdf)](docs/Introduction%20to%20Zen%20Dog.pdf)
+1. [Initial Idea - Focus to Earn](docs/Focus%20to%20Earn%20Approach.md) - [(PDF Link)](docs/Focus%20to%20Earn%20Approach.pdf)
+2. [Introduction to Zen Dog](docs/Introduction%20to%20Zen%20Dog.md) - [(PDF Link)](docs/Introduction%20to%20Zen%20Dog.pdf)
 
 ## Get Involved
 
