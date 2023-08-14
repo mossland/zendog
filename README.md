@@ -40,9 +40,10 @@ At its core, Zen Dog embraces a simple yet powerful idea: **disconnect to earn r
 
 6. **Celebrate Progress**: Share your achievements, connect with others, and inspire a growing community of Zen Dog users.
 
-## Zen Dog Design
+## Zen Dog Documents
 
-1. [Introduction to Zen Dog (pdf)](docs/Introduction%20to%20Zen%20Dog.pdf)
+1. [Initial Idea - Focus to Earn (pdf)](docs/Focus%20to%20Earn%20Approach.pdf)
+2. [Introduction to Zen Dog (pdf)](docs/Introduction%20to%20Zen%20Dog.pdf)
 
 ## Get Involved
 
