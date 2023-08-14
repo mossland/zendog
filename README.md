@@ -42,7 +42,7 @@ At its core, Zen Dog embraces a simple yet powerful idea: **disconnect to earn r
 
 ## Zen Dog Design
 
-1. [Introduction to Zen Dog (pdf)](Introduction%20to%20Zen%20Dog.pdf)
+1. [Introduction to Zen Dog (pdf)](docs/Introduction%20to%20Zen%20Dog.pdf)
 
 ## Get Involved
 
